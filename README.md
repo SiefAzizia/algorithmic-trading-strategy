@@ -31,7 +31,7 @@ Running the Code
 
 2.Run the main script:
 
-python your_script_name.py
+python "Sief Azizia 2282434 Final HW.py" 
 
 Output
 After running the script, the calculated SMA and RSI indicators will be stored in orcl-sma.csv and orcl-rsi.csv respectively.
