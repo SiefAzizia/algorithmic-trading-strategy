@@ -25,3 +25,13 @@ The code provided in this repository does the following:
 
       ``Bash
       git clone https://github.com/SiefAzizia/algorithmic-trading-strategy.git
+
+Running the Code
+1.Place your orcl.csv file containing historical price data in the project directory.
+
+2.Run the main script:
+
+python your_script_name.py
+
+Output
+After running the script, the calculated SMA and RSI indicators will be stored in orcl-sma.csv and orcl-rsi.csv respectively.
